@@ -1,2 +1,2 @@
-# cybersec_portfolio
-My CyberSecurity portfolio
+# devsecops_portfolio
+My DevSecOps portfolio
